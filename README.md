@@ -1,2 +1,2 @@
-# discribe-by-pthon-language
+# discribe-by-python-language
 discribe use python language
